@@ -2,8 +2,8 @@
 function getPDO() {
     $host = 'localhost';
     $db   = 'todo_db';
-    $user = 'root';
-    $pass = 'xbox360cool';
+    $user = 'todo_user';
+    $pass = 'StrongPassword123';
     $charset = 'utf8mb4';
 
     $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
