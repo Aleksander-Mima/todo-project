@@ -1,7 +1,7 @@
 <?php
 function getPDO() {
     $host = 'localhost';
-    $db   = 'todo';
+    $db   = 'todo_db';
     $user = 'root';
     $pass = 'xbox360cool';
     $charset = 'utf8mb4';
